@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am <b>AQSA ABDUL QADIR</b> freshly graduated and seeking for new opportunities
-- 👷‍♀️ 1.5 years of <b>Machine Learning in Python</b>
+- 🏫 I'm learning machine learning
 - 👯 I’m open for new work environment ...
 - 🌍 Different platformwork: 
     1. ✨ kaggle : https://www.kaggle.com/aqsaqadir22
