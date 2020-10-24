@@ -6,9 +6,7 @@ I am <b>AQSA ABDUL QADIR</b> freshly graduated and seeking for new opportunities
 - 🌍 Different platformwork: 
     1. ✨ kaggle : https://www.kaggle.com/aqsaqadir22
     2. ✨ medium :  https://medium.com/@aqsa.qadir44 
-- 📫 How to reach me: 
-    1. EMAIL: aqsa.qadir44@gmail.com
-    2. Linkedin: https://www.linkedin.com/in/aqsa-abdul-qadir-86820a180
+- 📫 How to reach me: aqsa.qadir44@gmail.com
 - 😄 Pronouns: Passionate , Programming Lover...
-- ⚡ Fun fact : "dreaming" = me ..
+- ⚡ Fun fact : "DreameR" = ME..
 
